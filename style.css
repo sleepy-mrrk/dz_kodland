@@ -1,0 +1,75 @@
+body {
+    font-family: Arial,  sans-serif; /* Семейство шрифтов */
+    font-size: 11px; /* Размер основного шрифта в <p></p>  */
+    background-color: #f0f0f0; /* Цвет фона веб-страницы */
+    color: #1c0000; /* Цвет основного текста */ 
+}
+h1 {
+    color: #fff7f7; /* Цвет заголовка */
+    font-size: 40px; /* Размер шрифта в пунктах */
+    font-family: Arial, Helvetica, sans-serif, serif; /* Семейство шрифтов */
+}
+
+p {
+    color: #dfd9d9; /* Цвет заголовка */
+    font-size: 25px; /* Размер шрифта в пунктах */
+    font-family: Arial, Helvetica, sans-serif, serif; /* Семейство шрифтов */
+}
+
+
+a {
+    color: #43d4a6; /* Цвет ссылок */
+}
+a:hover {
+    color: #226a53; /* Цвет ссылок при наведении */
+}
+li {
+    color: #dfd9d9; /* Цвет пунктов списка */
+    font-size: 25px; /* Размер шрифта в пунктах */
+    font-family: Arial, Helvetica, sans-serif, serif; /* Семейство шрифтов */
+}
+
+img {
+    border: 2px solid #000000; /* Рамка вокруг изображений */
+}
+
+h2 {
+    color: #fff7f7; /* Цвет заголовка */
+    font-size: 30px; /* Размер шрифта в пунктах */
+    font-family: Arial, Helvetica, sans-serif, serif; /* Семейство шрифтов */
+}
+
+h3 {
+    color: #fff7f7; /* Цвет заголовка */
+    font-size: 20px; /* Размер шрифта в пунктах */
+    font-family: Arial, Helvetica, sans-serif, serif; /* Семейство шрифтов */
+}
+blockquote {
+    color: #dfd9d9; /* Цвет цитаты */
+    font-size: 20px; /* Размер шрифта в пунктах */
+    font-family: Arial, Helvetica, sans-serif, serif; /* Семейство шрифтов */
+    border-left: 4px solid #000000; /* Линия слева от цитаты */
+    margin-left: 20px; /* Отступ слева */
+    padding-left: 10px; /* Отступ текста от линии */
+}
+code {
+    font-family: "Courier New", Courier, monospace; /* Шрифт для кода */
+    background-color: #e0e0e0; /* Фоновый цвет для кода */
+    padding: 2px 4px; /* Отступы вокруг кода */
+    border-radius: 4px; /* Скругленные углы */
+}
+h4 {
+    color: #fff7f7; /* Цвет заголовка */
+    font-size: 15px; /* Размер шрифта в пунктах */
+    font-family: Arial, Helvetica, sans-serif, serif; /* Семейство шрифтов */
+}
+h5 {
+    color: #fff7f7; /* Цвет заголовка */
+    font-size: 12px; /* Размер шрифта в пунктах */
+    font-family: Arial, Helvetica, sans-serif, serif; /* Семейство шрифтов */
+}
+h6 {
+    color: #fff7f7; /* Цвет заголовка */
+    font-size: 10px; /* Размер шрифта в пунктах */
+    font-family: Arial, Helvetica, sans-serif, serif; /* Семейство шрифтов */
+}
